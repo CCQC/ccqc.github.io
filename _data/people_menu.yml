@@ -1,5 +1,11 @@
 - label: First Year
   items:
+  - name: Connor Briggs
+    link: /people/connorbriggs/
+  - name: Andy Jiang
+    link: /people/andyjiang/
+- label: Second Year
+  items:
   - name: Sam Biggerstaff
     link: /people/sambiggerstaff/
   - name: Houston Givhan
@@ -10,13 +16,13 @@
     link: /people/ethanponcelet/
   - name: Carson Tang
     link: /people/carsontang/
-- label: Second Year
+- label: Third Year
   items:
   - name: Ian Beck
     link: /people/ianbeck/
   - name: Laura Olive
     link: /people/lauraolive/
-- label: Third Year
+- label: Fourth Year
   items:
   - name: James Begley
     link: /people/jamesbegley/
@@ -24,18 +30,14 @@
     link: /people/stephengoodlett/
   - name: Erica Mitchell
     link: /people/ericamitchell/
-- label: Fourth Year
+- label: Fifth Year
   items:
-  - name: Ally Burke
-    link: /people/allyburke/
   - name: Alex Heide
     link: /people/alexheide/
   - name: Nate Kitzmiller
     link: /people/natekitzmiller/
 - label: Research Scientists
   items:
-  - name: Dr. Mull
-    link: /people/henrymull/
   - name: Dr. Lahm
     link: /people/mitchelllahm/
   - name: Dr. Turney

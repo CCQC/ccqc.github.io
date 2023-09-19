@@ -6,6 +6,9 @@ menubar: people_menu
 ---
 
 ## 2020 - present
+- Ally Heide (Burke)
+  - Ph.D. 2023
+  - General Chemistry Lecturer - University of Georgia
 - Henry Mull
   - Ph.D. 2023
 - Gustavo Aroeira

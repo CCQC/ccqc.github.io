@@ -6,6 +6,9 @@ menubar: people_menu
 ---
 
 ## Visiting Students
+- Ashley Allen
+  - Undergrad - Vanderbilt University
+  - "DFT Benchmark of HCNO"
 - Andy Jiang
   - Undergrad - Georgia Tech
   - "Tensor Hypercontraction Form of the Perturbative Triples Energy in Coupled-Cluster Theory"

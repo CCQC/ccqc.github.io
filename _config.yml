@@ -15,7 +15,7 @@ project_repository: ccqc.github.io
 permalink: pretty
 favicon: /img/icons/favicon.png
 theme_color: '#b02b21'
-footer_menu: footer_menu.yml
+footer_menu: footer_menu
 logo: /img/ccqc_logo.png
 
 twitter:

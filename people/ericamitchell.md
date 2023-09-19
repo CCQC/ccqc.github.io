@@ -6,7 +6,7 @@ menubar: people_menu
 
 ![ericamitchell](/img/people/ericamitchell.jpg)
 
-[![GitHub](/img/icons/github.svg){: width="20"}](https://github.com/EricaCMitchell){: .btn} &nbsp; 
+[![GitHub](/img/icons/github.svg){: width="20"}](https://github.com/EricaCMitchell){: .btn} &nbsp;
 [![Google Scholar](/img/icons/scholar.svg.png){: width="20"}](https://scholar.google.com/citations?user=csXbqssAAAAJ&hl=en){: .btn}
 
 ## Biography
