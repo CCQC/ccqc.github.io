@@ -14,8 +14,6 @@
 - name: Resources
   link: /resources/
   dropdown:
-    - name: Lectures
-      link: /resources/lectures/
     - name: Software
       link: /resources/software/
     - name: SURO/CURO
