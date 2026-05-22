@@ -1,12 +1,12 @@
 ---
 layout: people
 title: Dr. Charles Park Richardson
-<!-- role: Distinguished Science and Technology Advisor -->
+role: Distinguished Science and Technology Advisor
 hero_image: /assets/portraits/Richardson2.jpg
 image: /assets/portraits/Richardson2.jpg
 hero_image_ratio: is-4by5
 snippet: |-
-  Distinguished Science and Technology Advisor Joins CCQC
+  Global healthcare strategist joins CCQC
 ---
 
 <!-- ![Richardson](/assets/portraits/Richardson2.jpg) -->
