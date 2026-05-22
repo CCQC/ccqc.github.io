@@ -1,5 +1,5 @@
-- name: HFS
-  link: /HFS/
+- name: History
+  link: /history/
 - name: People
   link: /people/
 - name: Research
@@ -18,3 +18,4 @@
       link: /resources/software/
     - name: SURO/CURO
       link: /resources/suro/ 
+# - Former Membersc

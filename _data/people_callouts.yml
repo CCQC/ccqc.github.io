@@ -1,0 +1,14 @@
+style: is-light
+items:
+  - title: Graduate Students
+    call_to_action_name: Graduate Students
+    call_to_action_link: /people/grad_students/grads/
+  - title: Undergraduates
+    call_to_action_name: Undergraduates
+    call_to_action_link: /people/undergrads/undergrads/
+  - title: Staff
+    call_to_action_name: Staff
+    call_to_action_link: /people/staff/staff/
+  - title: Alumni
+    call_to_action_name: Alumni
+    call_to_action_link: /people/alumni/alumni/

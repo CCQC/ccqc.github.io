@@ -29,6 +29,11 @@ social:
     - https://www.instagram.com/ccqc_at_uga/?igshid=NTc4MTIwNjQ2YQ%3D%3D
     - https://github.com/CCQC
 
+collections:
+  team:
+      output: true
+      permalink: /poeple/:title/
+
 defaults:
   - scope:
       path: ""
@@ -37,7 +42,8 @@ defaults:
       author: CCQC
 
 # Build settings
-remote_theme: chrisrhymes/bulma-clean-theme
+theme: bulma-clean-theme
+force_theme: 'light'
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
