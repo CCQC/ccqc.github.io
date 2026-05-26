@@ -1,20 +1,21 @@
 ---
 layout: page
-title: Staff
+title: CCQC Staff
 ---
 
-The fantastic admins and staff that have supported the CCQC have been instrumental in the CCQC achieving the success that it has. 
+The fantastic admins and staff that have supported the CCQC have been instrumental in the CCQC achieving its success.
 
-## Current Staff
+## Current CCQC Staff
 
 ### Karalee Bunkley
 
 ![Kara](/assets/portraits/KaraBunkley.jpg){: width="50%"}
 
-## Previous Staff
+## Previous CCQC Staff
 
 - Emory Grace
 - Carroll William
 - Amber Lahm
 - Kathryn Juras
 - Sybil Zimmerman
+- Linda Rowe

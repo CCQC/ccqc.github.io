@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Dr. Wesley Allen
+title: Professor Wesley D. Allen
 role: Senior Resarch Scientist
 image: /assets/portraits/allen_wesley2.jpg
 ---

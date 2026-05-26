@@ -1,13 +1,13 @@
 ---
 title: Publications
 layout: page
-toc: true
+<!-- toc: true -->
 ---
 
-## 2004 Publication List:
+<!-- ## 2004 Publication List: -->
 
-Cite this: J. Phys. Chem. A 2004, 108, 15, 2818–2850
-https://doi.org/10.1021/jp040043s
+<!-- Cite this: J. Phys. Chem. A 2004, 108, 15, 2818–2850 -->
+<!-- https://doi.org/10.1021/jp040043s -->
 
 1. H. F. Schaefer and F. E. Harris, “Configuration Interaction Using Open-Shell Spin-Projected Functions”, Chem. Phys. Lett. 1, 407 (1967).
 1. H. F. Schaefer and F. E. Harris, “Electronic Structure of Atomic Boron”, Phys. Rev. 167, 67 (1968).
@@ -1030,9 +1030,9 @@ https://doi.org/10.1021/jp040043s
 1. M. Schuurman, S. Muir, W. D. Allen, and H. F. Schaefer, “Toward Subchemical Accuracy in Computational Thermochemistry:  Focal Point Analysis of the Heat of Formation of NCO and [H, N, C, O] Isomers”, J. Chem. Phys.
 1. N. A. Richardson, S. Wang, and H. F. Schaefer, “DNA Nucleosides and their Radical Anions:  Molecular Structures and Electron Affinities”, J. Am. Chem. Soc.126, 4404 (2004).
 
-## Post 2004 Additions
+<!-- ## Post 2004 Additions -->
 
-Additions to the Publication List of Henry F. Schaefer III Appearing in the April 15, 2004 Issue of the Journal of Physical Chemistry A (108, 2818-2850).
+<!-- Additions to the Publication List of Henry F. Schaefer III Appearing in the April 15, 2004 Issue of the Journal of Physical Chemistry A (108, 2818-2850). -->
 
 {:start="160"}
 160.	Book: H. F. Schaefer, editor, Methods of Electronic Structure Theory, Modern Theoretical Chemistry, Vol. 3 (Plenum Press, New York, 1977), 462 pages. Reprinted in paperback (Springer, New York, 2013).
@@ -1040,11 +1040,13 @@ Additions to the Publication List of Henry F. Schaefer III Appearing in the Apri
 {:start="295"}
 295.	Book:  H. F. Schaefer, Quantum Chemistry: The Development of Ab Initio Methods in Molecular Electronic Structure Theory (Clarendon Press, Oxford England, 1984), 142 pages.  Reprinted in paperback by Dover Publications (Mineola, New York, 2004).
 
-{:start="1015"}
-1015.	S. E. Wheeler, K. W. Sattelmeyer, P. R. Schleyer, and H. F. Schaefer, “Dissociation Energies of Small Lithium Clusters (Lin) and Hydrogenated Lithium Clusters (LinH)”, J. Chem. Phys. 120, 4683 (2004).
-1016.	Y. Zhao, W. Xu, Q. Li, Y. Xie, and H. F. Schaefer, “The Arsenic Clusters Asn(n=1-5) and their Anions:  Structures, Thermochemistry, and Electron Affinities”, J. Comput. Chem. 25, 907 (2004).
-    1019. M. Schuurman, S. Muir, W. D. Allen, and H. F. Schaefer, "Toward Subchemical Accuracy in Computational Thermochemistry:  Focal Point Analysis of the Heats of Formation of NCO and [H, N, C, O] Isomers", J. Chem. Phys. 120, 11586 (2004).
-1020.	N. A. Richardson, J. Gu, S. Wang, Y. Xie, and H. F. Schaefer, "DNA Nucleosides and their Radical Anions:  Molecular Structures and Electron Affinities", J. Amer. Chem. Soc. 126, 4404 (2004).
+<!-- 1015.	S. E. Wheeler, K. W. Sattelmeyer, P. R. Schleyer, and H. F. Schaefer, “Dissociation Energies of Small Lithium Clusters (Lin) and Hydrogenated Lithium Clusters (LinH)”, J. Chem. Phys. 120, 4683 (2004). -->
+<!-- 1016.	Y. Zhao, W. Xu, Q. Li, Y. Xie, and H. F. Schaefer, “The Arsenic Clusters Asn(n=1-5) and their Anions:  Structures, Thermochemistry, and Electron Affinities”, J. Comput. Chem. 25, 907 (2004). -->
+<!-- 1019. M. Schuurman, S. Muir, W. D. Allen, and H. F. Schaefer, "Toward Subchemical Accuracy in Computational Thermochemistry:  Focal Point Analysis of the Heats of Formation of NCO and [H, N, C, O] Isomers", J. Chem. Phys. 120, 11586 (2004). -->
+
+<!-- 1020.	N. A. Richardson, J. Gu, S. Wang, Y. Xie, and H. F. Schaefer, "DNA Nucleosides and their Radical Anions:  Molecular Structures and Electron Affinities", J. Amer. Chem. Soc. 126, 4404 (2004). -->
+
+{:start="1021"}
 1021.	F. Evangelista, A. Paul, and H. F. Schaefer, "Radicals Derived from Adenine:  Prediction of Large Electron Affinities with a Considerable Spread", J. Phys. Chem. A 108, 3565 (2004).
 1022.	A. Y. Timoshkin and H. F. Schaefer, "Structural and Thermodynamic Properties of Group 13 Imidometallanes and their Heavier Analogs", Inorg. Chem. 43, 3080 (2004).
 1023.	Y. Yamaguchi and H. F. Schaefer, “The Diazocarbene (CNN) Molecule:  Characterization of the X˜  3S- and Ã 3 Electronic States”, J. Chem. Phys. 120, 9536 (2004).
@@ -1057,13 +1059,13 @@ Additions to the Publication List of Henry F. Schaefer III Appearing in the Apri
 1030.	E. A. Berezovskaya, A. Y. Timoshkin, T. N. Sevastianova, A. D. Misharev, A. V. Suvorov, and H. F. Schaefer, “Gas Phase Complexes MX3 • 4, 4' Bipy • M'X3:  Experiment and Theory”, J. Phys. Chem. B 108, 9561 (2004).
 1031.	F. A. Evangelista and H. F. Schaefer, “Structures and Energetics of Adenosine Radicals:  (2'-dAdo-H)•” J. Phys. Chem. A 108, 10258 (2004).
 1032.	C. Wannere, K. Sattelmeyer, H. F. Schaefer, and P. R. Schleyer, "Aromaticity:  The Alternating CC Bond Length Structure of [18] Annulene",  Angew. Chem. Int. Ed. Engl. 43, 4200 (2004).
-    1033. S. Li, R. B. King, and H. F. Schaefer, “The Highly Unsaturated Binuclear Chromium Carbonyl Cr2(CO)8”, J. Phys. Chem. A 108, 6879 (2004).
-    1034. Y. Zhao, W. Xu, Q. Li, Y. Xie, and H. F. Schaefer, “The Gallium Clusters Gan (n = 1 – 6):  Structures, Thermochemistry, and Electron Affinities”, J. Phys. Chem. A 108, 7448 (2004).
+1033. S. Li, R. B. King, and H. F. Schaefer, “The Highly Unsaturated Binuclear Chromium Carbonyl Cr2(CO)8”, J. Phys. Chem. A 108, 6879 (2004).
+1034. Y. Zhao, W. Xu, Q. Li, Y. Xie, and H. F. Schaefer, “The Gallium Clusters Gan (n = 1 – 6):  Structures, Thermochemistry, and Electron Affinities”, J. Phys. Chem. A 108, 7448 (2004).
 1035.	A. Y. Timoshkin and H. F. Schaefer, “Spontaneous Gas Phase Generation of Needle-Shaped Clusters Which Violate the Isolated Square Rule:  A Facile Road to GaN Nanorods?” J. Amer. Chem. Soc. 126, 12141 (2004).
 1036.	S. E. Wheeler, W. D. Allen, and H. F. Schaefer, “Thermochemistry of Disputed Soot Formation C4H3 and C4H5 Intermediates”, J. Chem. Phys. 121, 8800 (2004).
 1037.	J. D. Larkin and H. F. Schaefer, “The Ability of Silylenes to Bind Excess Electrons:  Electron Affinities of SiX2 and SiXY Species (X, Y = H, CH3, SiH3, F, Cl, Br)”, J. Chem. Phys. 121, 9361 (2004).
 1038.	A. Paul, C. S. Wannere, and H. F. Schaefer, “Do Linear Chain Perfluoroalkanes Bind an Electron?”, J. Phys. Chem. A 108, 9428 (2004).
-    1039. D. C. Clary, S. M. Colwell, and H. F. Schaefer, Editors, Molecular Quantum Mechanics:  Selected Papers of N. C. Handy, with Commentaries, (Taylor & Francis, London, 2004), 294 pages.
+1039. D. C. Clary, S. M. Colwell, and H. F. Schaefer, Editors, Molecular Quantum Mechanics:  Selected Papers of N. C. Handy, with Commentaries, (Taylor & Francis, London, 2004), 294 pages.
 1040.	I. S. Ignatyev and H. F. Schaefer, “Dihydrogen and Methane Elimination from Adducts Formed by the Interaction of Carbenium and Silylium Cations with Nucleophiles”, J. Amer. Chem. Soc. 126, 14515 (2004).
 1041.	R. B. King, Y. Xie, H. F. Schaefer, N. A. Richardson, and S. Li, “Homoleptic Binuclear Chromium Carbonyls:  Why Haven’t They Been Synthesized as Stable Molecules?” F. Gordon A. Stone Special Issue, Inorganica Chimica Acta 358, 1442 (2005).
 1042.	L. Gong, Q. Li, Y. Xie, and H. F. Schaefer, “Novel Bromine Oxyfluorides:  Structures, Thermochemistry, and Electron Affinities of BrOFn/BrOF-n(n = 1 – 5)”, Rodney J. Bartlett Special Issue, Molecular Physics 103, 1995 (2005).
@@ -1203,7 +1205,7 @@ Additions to the Publication List of Henry F. Schaefer III Appearing in the Apri
 1176.	J. W. Dicke, N. J. Stibrich and H. F. Schaefer, “V(CO)+7:  A Capped Octahedral Structure Completes the 18-Electron Rule”, Chem. Phys. Lett. 456, 13 (2008).
 1177.	Q. Luo, Q.-S. Li, Z. Yu, Y. Xie, R. B. King, and H. F. Schaefer, “Bonding of Seven Carbonyl Groups to a Single Metal Atom: Theoretical Study of M(CO)n (M = Ti, Zr, Hf; n = 7, 6, 5, 4:”, J. Amer. Chem. Soc. 130, 7756 (2008).
 1178.	X. Zhang, Q.-S. Li, Y. Xie, R. B. King, and H. F. Schaefer, “Dimetallocene Carbonyls:  The Limits of the 18-Electron Rule and Metal-Metal Multiple Bonding in Highly Unsaturated Molecules of the Early Transition Metals”, F. Albert Cotton Special Issue, J. Mol. Structure 890, 184 (2008).
-1179. 	H. Wang, Y. Xie, R. B. King, and H. F. Schaefer, “Unsaturation in Binuclear Cyclobutadiene Iron Carbonyls:  Triplet Structures, Four-Electron Bridging Carbonyl Groups, and Perpendicular Structures”, Organometallics 27, 3113 (2008).
+1179.	H. Wang, Y. Xie, R. B. King, and H. F. Schaefer, “Unsaturation in Binuclear Cyclobutadiene Iron Carbonyls:  Triplet Structures, Four-Electron Bridging Carbonyl Groups, and Perpendicular Structures”, Organometallics 27, 3113 (2008).
 1180.	L. D. Speakman, J. M. Turney, and H. F. Schaefer, “Toward the Observation of Quartet States of the Ozone Radical Cation:  Insights from Coupled Cluster Theory”, J. Chem. Phys. 128, 214302 (2008).
 1181.	J. D. Zhang, Z. Chen, and H. F. Schaefer, “Electron Attachment to the Hydrogenated Watson-Crick Guanine-Cytosine Base Pair (GC+H):  Conventional and Proton Transferred Structures”, J. Phys. Chem. A 112, 6217 (2008).
 1182.	B. Galabov, S. Ilieva, B. Hadjieva, Y. Atanassov, and H. F. Schaefer, “Predicting Reactivities of Organic Molecules.  Theoretical and Experimental Studies on the Aminolysis of Phenyl Acetates”, J. Phys. Chem. A 112, 6700 (2008).
@@ -1354,7 +1356,6 @@ Additions to the Publication List of Henry F. Schaefer III Appearing in the Apri
 1327.	M. P. Pu, Q.-S. Li, Y. Xie, R. B. King, and H. F. Schaefer, “Mononuclear Homoleptic Allyl Complexes of the First Row Transition Metals:  Species with Unusual Metal Electronic Configurations”,   J. Phys. Chem. A 115, 4491 (2011).
 1328.	T. Lu, J. J. Wilke, Y. Yamaguchi, and H. F. Schaefer, “Anharmonic Rovibrational Analysis for Disilacyclopropenylidene (Si2CH2)”,   J. Chem. Phys. 134, 164101 (2011).
 1329.	F. Cheng, Q.-S. Li, Y. Xie, R. B. King, and H. F. Schaefer, “Structural and Thermodynamic Aspects of the Dissociation of Cyclopentadienyl Rings from Homoleptic Cyclopentadienyl Early Transition Metal and Lanthanide Derivatives”,  Chemical Physics  384, 1 (2011).
-
 1330.	S. Kim, S. Wang, and H. F. Schaefer, “Structures, Energetics, and Aromaticities of the Tetrasilacyclobutadiene Dianion and Related Compounds:  (Si4H4)2-, (Si4H4)2- · 2Li+, [Si4(SiH3)4]2- · 2Li+, [Si4(SiH3)4]2- · 2Na+, and [Si4(SiH3)4]2- 2K+”, J. Phys. Chem. A 115, 5478 (2011).
 1331.	H. Li, H. Feng, W. Sun, Y. Xie, R. B. King, and H. F. Schaefer, “Binuclear Pentalene Iron Carbonyl Complexes”,   European J. Inorg. Chem. 17, 2746 (2011).
 1332.	Y. Liu, S. Li, X.-J. Yang, Q.-S. Li, Y. Xie, H. F. Schaefer, and B. Wu, “Alkali Metal Compounds of a Gallium (I) Carbene Analogue {:Ga[N(Ar)C(Me)]2} (Ar=2,6-iPr2C6H3”, J. Organometallic Chem. 696, 1450 (2011).
@@ -1411,7 +1412,7 @@ Additions to the Publication List of Henry F. Schaefer III Appearing in the Apri
 1383.	A. M. Morrison, J. Agarwal, H. F. Schaefer, and G. E. Douberly, “Infrared Laser Spectroscopy of the CH3OO Radical Formed from the Reaction of CH3 and O2 within a Helium Nanodroplet”, J. Phys. Chem. A. 116, 5299 (2012).
 1384.	U. Bozkaya and H. F. Schaefer, “Symmetric and Asymmetric Triple Excitation Corrections for the Orbital-Optimized Coupled-Cluster Doubles Method:  Improving Upon CCSD(T) and CCSD(T)Λ. Preliminary Applications”, J. Chem. Phys. 136, 204114 (2012).
 1385.	Y. Zhao, X. Feng, Y. Xie, R. B. King, and H. F. Schaefer, “Molybdenum-Molybdenum Multiple Bonding in Homoleptic Molybdenum Carbonyls:  Comparison with Their Chromium Analogues”,  J. Phys. Chem. A. 116, 5698 (2012).
-1386	J. Agarwal, B. C. Sanders, E. Fujita, H. F. Schaefer, T. C. Harrop, and J. T. Muckerman, “Exploring the Intermediates of Photochemical CO2 Reduction:  Reaction of Re(dmb)(CO)3COOH with CO2”, Chem. Commun. 6797 (2012).
+1386.	J. Agarwal, B. C. Sanders, E. Fujita, H. F. Schaefer, T. C. Harrop, and J. T. Muckerman, “Exploring the Intermediates of Photochemical CO2 Reduction:  Reaction of Re(dmb)(CO)3COOH with CO2”, Chem. Commun. 6797 (2012).
 1387.	J. Gu, J. Leszczynski, and H. F. Schaefer, “Interactions of Electrons with Bare and Hydrated Biomolecules”, Chemical Reviews 112, 5603 (2012).
 1388.	N. Dou, Q. S. Li, Y. Xie, R. B. King, and H. F. Schaefer, “Disulfide Ligands and Sulfur-Bridging Carbonyls:  Remarkable Examples in Manganese Carbonyl Complexes”, Alfred Werner Special Issue, Polyhedron 52, 1375 (2013).
 1389.	B. Galabov, S. Ilieva, G. Koleva, W. D. Allen, H. F. Schaefer, and P. R. Schleyer, “Structure-Reactivity Relationships for Aromatic Molecules:  Electrostatic Potentials at Nuclei and Electrophile Affinity Indices”, WIREs Computational Molecular Science 3, 37 (2013).
@@ -1497,10 +1498,10 @@ OH  (H2O) Reaction.  Removal of the HCl + OH Barrier by a Single Water Molecu
 1468.	H. Li, H. Feng, W. Sun, Q. Fan, R. B. King, and H. F. Schaefer, “The First Row Transition Metals in Binuclear Cyclopentadienyl Derivatives of Tetramethyleneethane: Bis(trihapto) versus Bis(tetrahapto) Ligand-Metal Bonding Related to Spin State and Metal-Metal Bonds”, Organometallics 33, 3489 (2014).
 1469.   V.  Nikolova, S.  Ilieva, B.  Galabov, and  H.  F.  Schaefer, “Experimental Measurement and Theory of Substitutuent Effects in -Hydrogen Bonding: Complexes of Substituted Phenols with Benzene,” J. Organic Chem. 79, 6823 (2014).
 1470.	C. Li, J. Agarwal, C.-H. Wu, W. D. Allen, and H. F. Schaefer, “The Intricate Internal Rotation Surface and Fundamental Infrared Transitions of the n-Propyl Radical”, William L. Jorgensen Special Issue, J. Phys. Chem. B 119, 728 (2015).
-1471	Y. Guo, Y. Hao, H. Wang, Y. Xie, and H. F. Schaefer, “Protonated Digermane, Distannane, and Diplumbane”, Eur. J. Inorg. Chem. 5015 (2014).
+1471.	Y. Guo, Y. Hao, H. Wang, Y. Xie, and H. F. Schaefer, “Protonated Digermane, Distannane, and Diplumbane”, Eur. J. Inorg. Chem. 5015 (2014).
 1472.	Y. Zeng, H. Feng, R. B. King, and H. F. Schaefer, “Dinickelametallocenes: Sandwich Compounds of the First Row Transition Metals (M=Fe, Co, Ni) with Two Pentahapto Planar Nickelacycle Ligands”, Organometallics 33, 4410 (2014).  
 1473.	Y. Shao, Z. Gan, E. Epifanovsky, A. T. B. Gilbert, M. Wormit, J. Kussmann, A. W. Lange, A. Behn, J. Deng, X. Feng, D. Ghosh, M. Goldey, P. R. Horn, L. D. Jacobson, I. Kaliman, R. Z. Khaliullin, T. Kús, A. Landau, J. Liu, E. I. Proynov,  Y. M. Rhee, R. M. Richard, M. A. Rohrdanz, R. P. Steele, E. J. Sundstrom, H. L. Woodcock, P. M. Zimmerman, D. Zuev, B. Albrecht, E. Alguire, B. Austin, G. J. O. Beran, Y. A. Bernard, E. Berquist, K. Brandhorst, K. B. Bravaya, S. T. Brown, D. Casanova, C.-M. Chang, Y. Chen, S. H. Chien, K. D. Closser, D. L. Crittenden, M. Diedenhofen, R. A. DiStasio, H. Do, A. D. Dutoi, R. G. Edgar, S. Fatehi, L. Fusti-Molnar, A. Ghysels, A. Golubeva-Zadorozhnaya, J. Gomes, M. W. D. Hanson-Heine, P. H. P. Harbach, A. W. Hauser, E. G. Hohenstein, Z. C. Holden, T.-C. Jagau, H. Ji, B. Kaduk, K. Khistyaev, J. Kim, J. Kim, R. A. King, P. Klunzinger, D. Kosenkov, T. Kowalczyk, C. M. Krauter, K. U. Lao, A. Laurent, K. V. Lawler, S. V. Levchenko, C. Y. Lin, F. Liu, E. Livshits, R. C. Lochan, A. Luenser, P. Manohar, S. F. Manzer, S.-P. Mao, N. Mardirossian, A. V. Marenich, S. A. Maurer, N. J. Mayhall, C. M. Oana, R. Olivares-Amaya, D. P. O’Neill, J. A. Parkhill, T. M. Perrine, R. Peverati, P. A. Pieniazek, A. Prociuk, D. R. Rehn, E. Rosta, N. J. Russ, N. Sergueev, S. M. Sharada, S. Sharma, D.W. Small, A. Sodt, T. Stein, D. Stück, Y.-C. Su, A. J. W. Thom, T. Tsuchimochi, L. Vogt, O. Vydrov, T. Wang, M. A. Watson, J. Wenzel, A. White, C. F. Williams, V. Vanovschi, S. Yeganeh, S. R. Yost, Z.-Q. You, I. Y. Zhang, X. Zhang, Y. Zhou, B. R. Brooks, G. K. L. Chan, D. M. Chipman, C. J. Cramer, W. A. Goddard, M. S. Gordon, W. J. Hehre, A. Klamt, H. F. Schaefer, M. W. Schmidt, C. D. Sherrill, D. G. Truhlar, A. Warshel, X. Xu, A. Aspuru-Guzik, R. Baer, A. T. Bell, N. A. Besley, J.-D. Chai, A. Dreuw, B. D. Dunietz, T. R. Furlani, S. R. Gwaltney, C.-P. Hsu, Y. Jung, J. Kong, D. S. Lambrecht, W.Z. Liang, C. Ochsenfeld , V. A. Rassolov, L. V. Slipchenko, J. E. Subotnik, T. Van Voorhis, J. M. Herbert, A. I. Krylov, P.M. W. Gill, and, M. Head-Gordon, “Advances in Molecular Quantum Chemistry Contained in the Q-Chem 4 Program Package”, Molecular Physics 113, 184 (2015).
-1474	G. Czako, A. G. Császár, and H. F. Schaefer, “Surprising Quenching of the Spin-Orbit Interaction Significantly Diminishes H2O … X (X = F, Cl, Br, I) Dissociation Energies”, David R. Yarkony Special Issue, J. Phys. Chem. A 118, 11956 (2014).
+1474.	G. Czako, A. G. Császár, and H. F. Schaefer, “Surprising Quenching of the Spin-Orbit Interaction Significantly Diminishes H2O … X (X = F, Cl, Br, I) Dissociation Energies”, David R. Yarkony Special Issue, J. Phys. Chem. A 118, 11956 (2014).
 1475.	A. Y. Sokolov, H. F. Schaefer, and W. Kutzelnigg, “Density Cumulant Functional Theory from a Unitary Transformation: N-Representability, Three-Particle Correlation Effects, and Application to O+4”, J. Chem. Phys. 141, 074111 (2014).
 1476.	B. Galabov, G. Koleva, J. Kong, H. F. Schaefer, and P. R. Schleyer, “Addition-Elimination vs. Direct Substitution Mechanism for Arene Chlorination”, Eur. J. Org. Chem. 6918 (2014).
 1477.	T. Zeng, H. Wang, Y. Lu, Y. Xie, H. Wang, H. F. Schaefer, N. Ananth, and R. Hoffmann, “Tuning Spin-States of CR and SiR: A Long Jump with One Leg”, J. Amer. Chem. Soc. 136, 13388 (2014).  
@@ -1556,7 +1557,6 @@ OH  (H2O) Reaction.  Removal of the HCl + OH Barrier by a Single Water Molecu
 1527.	Y. Qiu, C.-H. Wu, H. F. Schaefer, W. D. Allen, and J. Agarwal, “σ Bond Activation Through Tunneling: Formation of the Boron Hydride Cations  (n = 2, 4, 6),” Phys. Chem. Chem. Phys. 18, 4063 (2016).
 1528. 	H. Wang, Y. Qiu, and H. F. Schaefer, “Pathways for the OH + Br2 → HOBr + Br and HOBr + Br 
 	→ HBr + BrO Reactions,” J. Phys. Chem. A 120, 805 (2016).
-
 1529.	L. Horny, M. Quack, H. F. Schaefer, and M. Willeke, “Chlorine Peroxide (Cl2O2) and its Isomers: Structures, Spectroscopy, Formation and Thermochemistry,” Andreas Savin Special Issue, Molecular Physics 114, 1135 (2016).
 1530.	G. Li, Y. Xie, and H. F. Schaefer, “From Gas-Phase to Liquid Water Chemical Reactions: the F + (H2O)n  n = 1-4 Systems,” Invited Frontiers Article, Chem. Phys. Lett. 648, 1 (2016).
 1531.	S. J. R. Lee, J. W. Mullinax, and H. F. Schaefer, “Intermolecular Interactions and Proton Transfer in the Hydrogen Halide – Superoxide Anion Complexes,” Phys. Chem. Chem. Phys. 18, 6201 (2016).
@@ -1813,8 +1813,3 @@ OH  (H2O) Reaction.  Removal of the HCl + OH Barrier by a Single Water Molecu
 1782.  A. Jiang, C. G. Briggs, J.M. Turney, H. F. Schaefer, D. A. Matthews, D. Poole, and C.D. Sherrill, “Local Pair Natural Orbital-Based Couple-Cluster Theory through Full Quadruples (DLPNO-CSDTQ),” J. Chem. Theory. Comput.
 1783.  L. N. Olive Dornshuld, M. E. Lahm, N. L. Kitzmiller, W. D. Allen, and H. F. Schaefer, “Concordant Mode Approach (CMA) Vibrational Analysis of New and Upgraded Intermolecular Benchmarks for Noncovalent Bonding,” John F. Stanton Special Issue, J. Phys Chem. A
 1784.  H. Chen, J. Luo, Y. Liu, H. Li, Q. Fan, Z. Fan, R. B. King, and H. F. Schaefer, “Binuclear Acetoniminato Derivatives of Iron and Chromium Carbonyls: A Theoretical Study,” ACS Omega 11, 15538-15547 (2026). 
-
-
-
-
-5/21/2026 kjb
