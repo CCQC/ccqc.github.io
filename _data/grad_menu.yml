@@ -1,31 +1,27 @@
 - label: Graduate Students
   items:
-  - name: Zizi Toth
-    link: /people/grad_students/zizitoth/
-  - name: Jenny Krakowski
-    link: /people/grad_students/jennykrakowski/
-  - name: Katherine Stanley
-    link: /people/grad_students/katherinestanley/
   - name: Ashley Allen
     link: /people/grad_students/ashleyallen/
   - name: Connor Briggs
     link: /people/grad_students/connorbriggs/
+  - name: Houston Givhan (Graduated 5/26)
+    link: /people/grad_students/houstongivhan/
+  - name: Alexander G. Heide
+    link: /people/grad_students/alexheide/
   - name: Andy Jiang
     link: /people/grad_students/andyjiang/
-  - name: Houston Givhan (Graduated)
-    link: /people/grad_students/houstongivhan/
-  - name: Jace Jin (Graduated)
+  - name: Jace Jin (Graduated 5/26)
     link: /people/grad_students/jacejin/
-  - name: Ethan Poncelet (Graduated)
+  - name: Jenny Krakowski
+    link: /people/grad_students/jennykrakowski/
+  - name: Ethan Poncelet (Graduated 5/26)
     link: /people/grad_students/ethanponcelet/
-  - name: Carson Tang (Graduated)
+  - name: Allison Sargent
+    link: /people/grad_students/allisonsargent
+  - name: Katherine Stanley
+    link: /people/grad_students/katherinestanley/
+  - name: Carson Tang (Graduated 5/26)
     link: /people/grad_students/carsontang/
-- label: Undergraduates
-  items:
-  - name: John Hopkins (Graduated)
-    link: /people/undergrads/johnhopkins/
-  - name: Bohdi Martin (Graduated)
-    link: /people/undergrads/
-  - name: James Cullison
-    link: /people/undergrads/
+  - name: Zizi Toth
+    link: /people/grad_students/zizitoth/
 
