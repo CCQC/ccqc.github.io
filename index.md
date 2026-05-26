@@ -3,7 +3,7 @@ title: Welcome to the CCQC
 subtitle: All Quantum, All the Time"
 layout: page
 callouts: home_callouts
-hero_image: /assets/img/ccqc exterior.png
+hero_image: /assets/img/ccqc_exterior_16x10.png
 hero_height: is-fullheight
 hero_darken: true
 ---
