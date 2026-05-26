@@ -1,9 +1,9 @@
 ---
-title: HFS - CCQC
-subtitle: All Quantum, All the Time
+title: Welcome to the CCQC
+subtitle: All Quantum, All the Time"
 layout: page
 callouts: home_callouts
-hero_image: /assets/img/hero.jpg
+hero_image: /assets/img/ccqc exterior.png
 hero_height: is-fullheight
 hero_darken: true
 ---
